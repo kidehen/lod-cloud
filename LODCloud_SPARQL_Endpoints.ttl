@@ -5,14 +5,15 @@
 @prefix rdf: 		 <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix skos: 		 <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdfs: 		 <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix oplattrib:   <http://www.openlinksw.com/schemas/reification#> .
+@prefix oplattrib:       <http://www.openlinksw.com/schemas/reification#> .
 @prefix prov: 		 <http://www.w3.org/ns/prov#> .
 @prefix foaf: 		 <http://xmlns.com/foaf/0.1/> .
 @prefix dcterms: 	 <http://purl.org/dc/terms/> . 
-@prefix cc:          <http://creativecommons.org/ns#> .
-@prefix :            <#> .
-@prefix source:      <http://www.openlinksw.com/data/turtle/oplweb/LODCloud_SPARQL_Endpoints.ttl> .
-@prefix sourceDAV:   <http://www.openlinksw.com/DAV/data/turtle/oplweb/LODCloud_SPARQL_Endpoints.ttl> .
+@prefix xsd:             <http://www.w3.org/2001/XMLSchema#> . 
+@prefix cc:              <http://creativecommons.org/ns#> .
+@prefix :                <#> .
+@prefix source:          <http://www.openlinksw.com/data/turtle/oplweb/LODCloud_SPARQL_Endpoints.ttl> .
+@prefix sourceDAV:       <http://www.openlinksw.com/DAV/data/turtle/oplweb/LODCloud_SPARQL_Endpoints.ttl> .
 
 sourceDAV:
    a schema:CreativeWork ;
