@@ -20,7 +20,7 @@ sourceDAV:
    schema:name "LOD Cloud Knowledge Graph SPARQL Query Services Description"^^xsd:string ;
    dcterms:format "text/turtle" ;
    schema:dateCreated "2019-12-19T13:00:00-05:00"^^xsd:dateTime ;
-   schema:dateModified "2019-12-19T13:00:00-05:00"^^xsd:dateTime ;
+   schema:dateModified "2020-03-17T20:50:00-05:00"^^xsd:dateTime ;
    schema:author <http://www.openlinksw.com/#this> ;
    schema:publisher <http://www.openlinksw.com/#this> ;
    schema:license <http://creativecommons.org/licenses/by/4.0/deed.en_US> ;
